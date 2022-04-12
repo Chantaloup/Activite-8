@@ -4,4 +4,3 @@ document.querySelector('#button').addEventListener('click', () => {
     console.error(`ERREUR`);
   });
   
-  
